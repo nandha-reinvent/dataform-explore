@@ -1,0 +1,11 @@
+config {
+    type: "view",
+    name: "top_10"
+}
+
+SELECT
+  *
+FROM
+  `bigquery-public-data.america_health_rankings.ahr`
+LIMIT
+  10
