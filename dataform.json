@@ -1,0 +1,11 @@
+{
+    "warehouse": "bigquery",
+    "defaultDatabase": "bq-explore-438912",
+    "defaultSchema": "dataform_dev",
+    "assertionSchema": "dataform_dev_assertions",
+    "useRunCache": false,
+    "vars": {
+        "compileMode": "dev"
+    },
+    "concurrentQueryLimit": 5
+}
