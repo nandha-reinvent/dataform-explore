@@ -1,4 +1,7 @@
 {
+    "git": {
+    "url": "https://github.com/nandha-reinvent/dataform-explore.git"
+    },
     "warehouse": "bigquery",
     "defaultDatabase": "bq-explore-438912",
     "defaultSchema": "dataform_dev",
